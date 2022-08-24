@@ -12,7 +12,7 @@ I'm a Software Engineer (Backend and Frontend) and a Statistician. I seek to dev
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Back or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing azuchidozie91@gmail.com.
 
 ---
 
