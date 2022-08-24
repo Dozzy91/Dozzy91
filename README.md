@@ -16,7 +16,7 @@ I'm a Software Engineer (Backend and Frontend) and a Statistician. I seek to dev
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Dozie's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Dozie's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dozzy91&show_icons=true&include_all_commits=true&hide_border=true" alt="Dozie's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Dozie's GitHub stats" /> |
 | ------------- | ------------- |
 
 
