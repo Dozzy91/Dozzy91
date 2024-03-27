@@ -7,7 +7,6 @@ I'm a Software Engineer (Backend and Frontend) and a Statistician. I seek to dev
 
 **A quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
